@@ -1,2 +1,2 @@
 # SearchEngine
-A customization open source search engine.
+A customizable open source search engine.
